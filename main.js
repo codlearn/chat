@@ -111,7 +111,7 @@
     document.querySelector(".message-info>.avatar>img").src = img;
     document.querySelector(".message-info>.info>span").textContent = name;
     if (status != null) {
-      document.querySelector(".message-info>.info>small").textContent = name;
+      document.querySelector(".message-info>.info>small").textContent = "en Linea";
     } else {
       document.querySelector(".message-info>.info>small").remove();
     }
