@@ -1,0 +1,56 @@
+[
+  {
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "type":"sent",
+    "date": "12:08 am",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, beatae."
+  },
+  {
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "type": "received",
+    "date": "12:08 am",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, beatae."
+  },
+  {
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "type": "sent",
+    "date": "12:08 am",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, beatae."
+  },
+  {
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "type": "received",
+    "date": "12:08 am",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, beatae."
+  },
+  {
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "type": "sent",
+    "date": "12:08 am",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, beatae."
+  },
+  {
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "type": "received",
+    "date": "12:08 am",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, beatae."
+  },
+  {
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "type": "sent",
+    "date": "12:08 am",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, beatae."
+  },
+  {
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "type": "received",
+    "date": "12:08 am",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, beatae."
+  },
+  {
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+    "type": "sent",
+    "date": "12:08 am",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, beatae."
+  }
+]

@@ -290,7 +290,7 @@ p {
     border-radius: 16px;
     border-bottom-right-radius: 0px;
     display: inherit!important;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     margin-top: 5px;
 }
 
